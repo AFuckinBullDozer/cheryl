@@ -1,13 +1,13 @@
 {
     "action": {
-        "Name": "action",
-        "Description": "Do an action (or suggest an image for an action) on a member.",
-        "ChoiceName": "choice",
-        "ChoiceDescription": "What action would you like to do?",
-        "SuggestName": "suggest",
-        "SuggestDescription": "Suggest an image for addition of an action.",
-        "MemberName": "member",
-        "MemberDescription": "Member to target."
+        "Name": "Acción",
+        "Description": "realizar una acción (o sugerir una imagen para una acción) en un miembro.",
+        "ChoiceName": "elección",
+        "ChoiceDescription": "Qué acción te gustaría hacer?",
+        "SuggestName": "sugerir",
+        "SuggestDescription": "Sugerir una imagen para agregar una acción.",
+        "MemberName": "miembro",
+        "MemberDescription": "miembro para apuntar."
     },
     "avatar": {
         "Name": "avatar",
